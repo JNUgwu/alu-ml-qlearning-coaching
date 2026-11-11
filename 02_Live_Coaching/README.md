@@ -1,38 +1,63 @@
+
 # ALU Machine Learning — Live Coaching Session
 
 **Topic:** Tabular Q-Learning  
 **Duration:** 45 minutes  
 **Format:** Interactive, experiential and collaborative coaching
 
-## Open the Live Coaching Notebook
+## Welcome
 
-[Launch Live Coaching Notebook in Google Colab](https://colab.research.google.com/github/JNUgwu/alu-ml-qlearning-coaching/blob/main/02_Live_Coaching/ALU_Tabular_Q_Learning_Interactive_Session.ipynb)
+This live coaching session builds on the 15-minute pre-session preparation activity.
 
-## Session Overview
+Participants will investigate how a Q-learning agent learns from rewards, experiment with the Q-learning update rule and work collaboratively to identify and correct an implementation error.
 
-This live session introduces participants to practical Tabular Q-learning through guided experimentation, collaborative debugging and reflection.
+The session emphasises learning through experimentation, observation, reflection and application.
 
-## Participant Instructions
+## Launch the Live Coaching Notebook
 
-1. Click the Google Colab link above.
-2. Select **Connect** if prompted.
-3. Run the introductory examples as directed by the facilitator.
-4. Observe how Q-values change in response to rewards.
-5. Collaborate with a partner to investigate the debugging activity.
-6. Test your proposed correction and explain your findings.
-7. Participate in the final reflection.
+### [▶ Open Live Coaching Notebook in Google Colab](https://colab.research.google.com/github/JNUgwu/alu-ml-qlearning-coaching/blob/main/02_Live_Coaching/ALU_Tabular_Q_Learning_Interactive_Session.ipynb)
+
+**Open in a new tab:** Hold `Ctrl` (Windows/Linux) or `Command` (Mac) while clicking the link. Alternatively, right-click and select **Open Link in New Tab**.
 
 ## Learning Outcomes
 
 By the end of the session, participants should be able to:
 
-- Explain how the Q-learning update rule uses rewards and future-state estimates.
-- Interpret changes in a Q-table.
-- Identify and correct a common implementation error.
-- Explain how their observations relate to reinforcement learning concepts.
+1. Explain the role of rewards and future-state estimates in Q-learning.
+2. Interpret how Q-values change during learning.
+3. Identify and debug a common Q-learning implementation error.
+4. Test a correction and explain its effect on the agent's behaviour.
 
-## Preparation
+## Participant Instructions
 
-Complete the [15-minute pre-session activity](https://github.com/JNUgwu/alu-ml-qlearning-coaching/tree/main/01_Pre_Session) before attending the live coaching session.
+1. Open the live coaching notebook when instructed by the facilitator.
+2. Connect to a Google Colab runtime.
+3. Run the introductory examples and observe the outputs.
+4. Participate in the guided Q-learning experiments.
+5. Work with a partner to investigate the debugging challenge.
+6. Test your proposed correction and explain your reasoning.
+7. Share your findings during the reflection and discussion.
 
-**Note:** Participants should follow the facilitator's instructions when completing the debugging exercise.
+## Experiential Learning Approach
+
+The session follows four connected stages:
+
+- **Do:** Run experiments and observe the agent's behaviour.
+- **Review:** Discuss results, unexpected outputs and possible errors.
+- **Conclude:** Connect observations to the Q-learning update rule.
+- **Apply:** Correct the implementation and test the improvement.
+
+## Before the Session
+
+Complete the [15-minute Pre-Session Activity](https://github.com/JNUgwu/alu-ml-qlearning-coaching/tree/main/01_Pre_Session).
+
+## Technical Requirements
+
+- A computer with an internet connection.
+- A modern web browser.
+- Access to Google Colab.
+- No local Python installation required.
+
+## Important Note
+
+The notebook is designed for active participation. Follow the facilitator's instructions and attempt the debugging challenge before reviewing any solutions.
