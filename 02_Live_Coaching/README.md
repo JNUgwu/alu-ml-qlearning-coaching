@@ -1,21 +1,38 @@
 # ALU Machine Learning — Live Coaching Session
 
 **Topic:** Tabular Q-Learning  
-**Session duration:** 45 minutes
+**Duration:** 45 minutes  
+**Format:** Interactive, experiential and collaborative coaching
 
-This folder contains the interactive activities for the ALU Software Engineering Specialisation Coach (Machine Learning) mock session.
+## Open the Live Coaching Notebook
 
-## Live Session Activities
+[Launch Live Coaching Notebook in Google Colab](https://colab.research.google.com/github/JNUgwu/alu-ml-qlearning-coaching/blob/main/02_Live_Coaching/ALU_Tabular_Q_Learning_Interactive_Session.ipynb)
 
-Participants will explore the Q-learning update rule, examine how an agent learns from rewards, and collaborate on a debugging exercise.
+## Session Overview
 
-The session uses an experiential approach involving experimentation, observation, reflection and application.
+This live session introduces participants to practical Tabular Q-learning through guided experimentation, collaborative debugging and reflection.
 
-## Instructions
+## Participant Instructions
 
-1. Open the live coaching notebook when instructed by the facilitator.
-2. Run the provided examples and observe the outputs.
-3. Work with a partner to investigate the debugging challenge.
-4. Explain your proposed correction and test its effect.
-5. Participate in the final reflection and discussion.
+1. Click the Google Colab link above.
+2. Select **Connect** if prompted.
+3. Run the introductory examples as directed by the facilitator.
+4. Observe how Q-values change in response to rewards.
+5. Collaborate with a partner to investigate the debugging activity.
+6. Test your proposed correction and explain your findings.
+7. Participate in the final reflection.
 
+## Learning Outcomes
+
+By the end of the session, participants should be able to:
+
+- Explain how the Q-learning update rule uses rewards and future-state estimates.
+- Interpret changes in a Q-table.
+- Identify and correct a common implementation error.
+- Explain how their observations relate to reinforcement learning concepts.
+
+## Preparation
+
+Complete the [15-minute pre-session activity](https://github.com/JNUgwu/alu-ml-qlearning-coaching/tree/main/01_Pre_Session) before attending the live coaching session.
+
+**Note:** Participants should follow the facilitator's instructions when completing the debugging exercise.
